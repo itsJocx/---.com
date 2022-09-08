@@ -1,0 +1,49 @@
+.he{
+    color: darkblue;
+    margin-left: 15cm;
+    margin-top: 2cm;
+}
+.op{
+    color: rgb(1, 17, 16);
+    margin-left: 11cm;
+    margin-top: 0.5cm;
+    font-size: x-large;
+}
+.opp{
+    margin-left: 8cm;
+    font-size: x-large;
+}
+.column {
+    float: left;
+    width: 33.3%;
+    padding: 5px;
+  }
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+.comm{
+    margin-left: 17cm;
+}
+.a{
+    margin-left: 15cm;
+    color: rgba(0, 0, 0, 0.719);
+    font-size: xx-large;
+}
+.mob{
+    margin-left: 16.2cm;
+    font-size: x-large;
+}
+.mob1{
+  font-size: xx-large;
+    margin-left: 15.6cm;
+}
